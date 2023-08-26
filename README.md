@@ -1,6 +1,6 @@
-[![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)](https://www.linkedin.com/in/imavi831/)
+[![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)](https://www.linkedin.com/in/imavi831/)
 <h1 align="center">Hi 👋, I'm Avinash mishra</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst with a keen interest in creating highly interactive and aesthetic dashboards and presentations. </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imavi831&label=Profile%20views&color=0e75b6&style=flat" alt="imavi831" /> </p>
